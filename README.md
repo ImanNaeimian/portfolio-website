@@ -14,7 +14,7 @@ A clean and modern personal portfolio website to showcase your work, skills, and
 
 - HTML5  
 - CSS3  
-- JavaScript 
+- JavaScript  
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/7b1c6d98-3230-4920-ae43-0d6996a2d973)
